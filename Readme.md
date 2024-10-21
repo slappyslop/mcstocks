@@ -1,0 +1,1 @@
+I want to create a project that creates random samples of stock portfolios, and compares how they perform compared to "safer" investment options over different time frames. Maybe compare with gambling? 
